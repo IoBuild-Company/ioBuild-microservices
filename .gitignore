@@ -22,6 +22,10 @@ Thumbs.db
 
 # Environment
 .env
+.env.docker
 
 # Test results
 TestResults/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
